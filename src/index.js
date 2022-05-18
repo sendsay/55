@@ -1,5 +1,5 @@
 import cart from "./modules/cart";
-import msgS from "./modules/msgS";
+import second from "./modules/second";
 
 cart();
-msgS();
+second();
